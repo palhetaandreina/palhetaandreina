@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Andreina Palheta do Nascimento
 ======================================================================================================================================================
 
-Estudante de Técnico em Desenvolvimento de Sistemas (SENAC-MG) e Engenharia de Software (Estácio)
+Estudante de Engenharia de Software (Estácio) e Técnico em Desenvolvimento de Sistemas (SENAC-MG)
 -------------------------------------------------------------------------------------------------
 
-🎓 Estudante de Engenharia de Software pela Estácio e Técnico em Desenvolvimento de Sistemas pelo SENAC-MG, com foco em desenvolvimento web e mobile.
-💡 Tenho paixão por resolver problemas com código e transformar ideias em aplicações funcionais. 
-💡 Apaixonada por construir soluções que se comunicam bem entre si — especialmente através da criação de APIs REST bem estruturadas e escaláveis.
-🚀 Tenho interesse em trabalhar com back-end e front-end, com experiência em tecnologias como Node.js, NestJS, React e Flutter.
+🎓 Estudante de Engenharia de Software pela Estácio e Técnico em Desenvolvimento de Sistemas pelo SENAC-MG, com foco em desenvolvimento web e mobile. </br>
+💡 Tenho paixão por resolver problemas com código e transformar ideias em aplicações funcionais.  
+💡 Apaixonada por construir soluções que se comunicam bem entre si — especialmente através da criação de APIs REST bem estruturadas e escaláveis. </br> 
+🚀 Tenho interesse em trabalhar com back-end e front-end, com experiência em tecnologias como Node.js, NestJS, React e Flutter. </br> 
 📚 Estou sempre buscando evoluir, estudando testes automatizados, boas práticas de arquitetura e integração entre sistemas.
 
 * 🌍  I'm based in Divinópolis - Minas Gerais
